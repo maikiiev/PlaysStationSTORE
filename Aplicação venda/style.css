@@ -233,6 +233,6 @@ li{
 
   @keyframes moveController{
     from {
-        transform:translate(10%, -5%) rotate(-5deg);
+        transform:translate(-5%, -5%) rotate(-5deg);
     }
   }
